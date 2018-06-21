@@ -93,7 +93,7 @@ var md = `
 # 技能介绍
 
 熟悉 JavaScript CSS HTML
-掌握 Node Jquery Vue react
+掌握 Node Jquery Vue 
 
 # 项目介绍
 
